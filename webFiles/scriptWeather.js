@@ -1,11 +1,10 @@
 
  // JavaScript to interpolate random images into a page.
-var ic = 4; // Number of alternative images
+var ic = 3; // Number of alternative images
 var imgArr = new Array(ic); // Array to hold filenames
 imgArr[0] = "img1.jpg";
 imgArr[1] = "img2.jpg";
-imgArr[2] = "img3.jpg";
-imgArr[3] = "img4.jpg"
+imgArr[2] = "img4.jpg";
 
 function getRandomImage(imgAr, path) {
     path = path || 'images/'; // default path here
