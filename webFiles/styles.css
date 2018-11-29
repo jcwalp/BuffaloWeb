@@ -1,5 +1,18 @@
+html, body{
+  background-color: #34495e;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+
 .blue-back {
   background-color: #3a539b;
+}
+
+
+.navbar {
+  border-bottom-color: #f1c40f;
+  border-bottom-style: solid;
+  border-bottom-width: thick;
 }
 
 .navbar-light
