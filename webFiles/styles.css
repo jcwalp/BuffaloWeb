@@ -1,4 +1,5 @@
-html, body{
+html
+body{
   background-color: #34495e;
   font-family: 'Raleway', sans-serif;
   text-align: center;
@@ -22,4 +23,10 @@ html, body{
 
 .nav-link{
   color: white !important;
+}
+
+.background {
+  background-image: url("./buffalo.jpg");
+  overflow: visible;
+  height: 100%;
 }
