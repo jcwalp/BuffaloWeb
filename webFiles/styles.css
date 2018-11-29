@@ -66,3 +66,9 @@ body, html {
 .nav-link{
   color: white !important;
 }
+
+.rand-img {
+  margin-top: 2em;
+  margin-left: 4em;
+  max-width: 40%;
+}
